@@ -2,6 +2,11 @@
 
 This repository contains analytics dashboard and presentation for MyBambu login data for October 2025.
 
+## 🌐 Live Demo
+
+- **[View Dashboard](https://vinfante1346.github.io/Analytics-Val/october_2025_login_dashboard.html)** - Interactive analytics dashboard
+- **[View Presentation](https://vinfante1346.github.io/Analytics-Val/october_2025_presentation.html)** - Full-screen presentation slides
+
 ## 📊 Key Metrics
 
 - **390,608** unique customers logged in during October 2025
